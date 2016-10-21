@@ -1,0 +1,304 @@
+[21-Oct-2016 06:58:07 UTC] PHP Warning:  require_once(/Carbon/class.carbon.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/classes/class.points.php on line 11
+[21-Oct-2016 06:58:07 UTC] PHP Stack trace:
+[21-Oct-2016 06:58:07 UTC] PHP   1. {main}() /home/jcorpe/public_html/index.php:0
+[21-Oct-2016 06:58:07 UTC] PHP   2. include() /home/jcorpe/public_html/index.php:19
+[21-Oct-2016 06:58:07 UTC] PHP   3. include() /home/jcorpe/public_html/includes/dashboard/dashboard.php:4
+[21-Oct-2016 06:58:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/Carbon/class.carbon.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/jcorpe/public_html/classes/class.points.php on line 11
+[21-Oct-2016 06:58:07 UTC] PHP Stack trace:
+[21-Oct-2016 06:58:07 UTC] PHP   1. {main}() /home/jcorpe/public_html/index.php:0
+[21-Oct-2016 06:58:07 UTC] PHP   2. include() /home/jcorpe/public_html/index.php:19
+[21-Oct-2016 06:58:07 UTC] PHP   3. include() /home/jcorpe/public_html/includes/dashboard/dashboard.php:4
+[21-Oct-2016 06:58:27 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/shop.php on line 3
+[21-Oct-2016 06:58:27 UTC] PHP Stack trace:
+[21-Oct-2016 06:58:27 UTC] PHP   1. {main}() /home/jcorpe/public_html/shop.php:0
+[21-Oct-2016 06:58:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/jcorpe/public_html/shop.php on line 3
+[21-Oct-2016 06:58:27 UTC] PHP Stack trace:
+[21-Oct-2016 06:58:27 UTC] PHP   1. {main}() /home/jcorpe/public_html/shop.php:0
+[21-Oct-2016 08:21:05 UTC] PHP Warning:  require_once(/Carbon/class.carbon.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/classes/class.points.php on line 11
+[21-Oct-2016 08:21:05 UTC] PHP Stack trace:
+[21-Oct-2016 08:21:05 UTC] PHP   1. {main}() /home/jcorpe/public_html/index.php:0
+[21-Oct-2016 08:21:05 UTC] PHP   2. include() /home/jcorpe/public_html/index.php:19
+[21-Oct-2016 08:21:05 UTC] PHP   3. include() /home/jcorpe/public_html/includes/dashboard/dashboard.php:4
+[21-Oct-2016 08:21:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/Carbon/class.carbon.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/jcorpe/public_html/classes/class.points.php on line 11
+[21-Oct-2016 08:21:05 UTC] PHP Stack trace:
+[21-Oct-2016 08:21:05 UTC] PHP   1. {main}() /home/jcorpe/public_html/index.php:0
+[21-Oct-2016 08:21:05 UTC] PHP   2. include() /home/jcorpe/public_html/index.php:19
+[21-Oct-2016 08:21:05 UTC] PHP   3. include() /home/jcorpe/public_html/includes/dashboard/dashboard.php:4
+[21-Oct-2016 08:21:14 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/shop.php on line 3
+[21-Oct-2016 08:21:14 UTC] PHP Stack trace:
+[21-Oct-2016 08:21:14 UTC] PHP   1. {main}() /home/jcorpe/public_html/shop.php:0
+[21-Oct-2016 08:21:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/jcorpe/public_html/shop.php on line 3
+[21-Oct-2016 08:21:14 UTC] PHP Stack trace:
+[21-Oct-2016 08:21:14 UTC] PHP   1. {main}() /home/jcorpe/public_html/shop.php:0
+[21-Oct-2016 08:22:01 UTC] PHP Warning:  require_once(/includes/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 55
+[21-Oct-2016 08:22:01 UTC] PHP Stack trace:
+[21-Oct-2016 08:22:01 UTC] PHP   1. {main}() /home/jcorpe/public_html/shop.php:0
+[21-Oct-2016 08:22:01 UTC] PHP   2. require_once() /home/jcorpe/public_html/shop.php:3
+[21-Oct-2016 08:22:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/includes/header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/jcorpe/resources/config.php on line 55
+[21-Oct-2016 08:22:01 UTC] PHP Stack trace:
+[21-Oct-2016 08:22:01 UTC] PHP   1. {main}() /home/jcorpe/public_html/shop.php:0
+[21-Oct-2016 08:22:01 UTC] PHP   2. require_once() /home/jcorpe/public_html/shop.php:3
+[21-Oct-2016 08:27:20 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 08:27:20 UTC] PHP Stack trace:
+[21-Oct-2016 08:27:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 08:27:20 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 08:27:20 UTC] PHP Stack trace:
+[21-Oct-2016 08:27:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:06:20 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:06:20 UTC] PHP Stack trace:
+[21-Oct-2016 09:06:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:06:20 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:06:20 UTC] PHP Stack trace:
+[21-Oct-2016 09:06:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:06:36 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:06:36 UTC] PHP Stack trace:
+[21-Oct-2016 09:06:36 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:06:36 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:06:36 UTC] PHP Stack trace:
+[21-Oct-2016 09:06:36 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:05 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:05 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:05 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:05 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:05 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:18 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:18 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:18 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p/includes:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:18 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:18 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:35 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:35 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:35 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:35 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:35 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:35 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:57 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:57 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:57 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:57 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:57 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:57 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:58 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:58 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:58 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:07:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:07:58 UTC] PHP Stack trace:
+[21-Oct-2016 09:07:58 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:02 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:02 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:02 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:02 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:02 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:09 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:09 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:09 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:09 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:09 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:09 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:10 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:10 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:10 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:10 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:10 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:14 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:14 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:14 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:14 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:14 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:38 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:38 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:38 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:08:38 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html/p:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:08:38 UTC] PHP Stack trace:
+[21-Oct-2016 09:08:38 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:06 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:09:06 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:06 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html:/includes') in /home/jcorpe/public_html/p/shop.php on line 5
+[21-Oct-2016 09:09:06 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:06 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:23 UTC] PHP Warning:  require_once(resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:23 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:23 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:23 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:23 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:36 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:36 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:36 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:36 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:36 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:36 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:37 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:37 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:37 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:37 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:37 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:37 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:38 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:38 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:38 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:38 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:38 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:38 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:40 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:40 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:40 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:40 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:40 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:40 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:41 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:41 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:41 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:09:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:09:41 UTC] PHP Stack trace:
+[21-Oct-2016 09:09:41 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:08 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:08 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:08 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:08 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:08 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:10 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:10 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:10 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:10 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:10 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:20 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:20 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:20 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:20 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:21 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:21 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:21 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:10:21 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p') in /home/jcorpe/public_html/p/shop.php on line 3
+[21-Oct-2016 09:10:21 UTC] PHP Stack trace:
+[21-Oct-2016 09:10:21 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:12:08 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 09:12:08 UTC] PHP Stack trace:
+[21-Oct-2016 09:12:08 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 09:12:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 09:12:08 UTC] PHP Stack trace:
+[21-Oct-2016 09:12:08 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 10:12:29 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 10:12:29 UTC] PHP Stack trace:
+[21-Oct-2016 10:12:29 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 10:12:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p:/home/jcorpe/public_html') in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 10:12:29 UTC] PHP Stack trace:
+[21-Oct-2016 10:12:29 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:20:33 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 11:20:33 UTC] PHP Stack trace:
+[21-Oct-2016 11:20:33 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:20:33 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p') in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 11:20:33 UTC] PHP Stack trace:
+[21-Oct-2016 11:20:33 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:20:43 UTC] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 11:20:43 UTC] PHP Stack trace:
+[21-Oct-2016 11:20:43 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:20:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/p') in /home/jcorpe/public_html/p/shop.php on line 4
+[21-Oct-2016 11:20:43 UTC] PHP Stack trace:
+[21-Oct-2016 11:20:43 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:20:50 UTC] PHP Warning:  require_once(/includes/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 57
+[21-Oct-2016 11:20:50 UTC] PHP Stack trace:
+[21-Oct-2016 11:20:50 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:20:50 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:4
+[21-Oct-2016 11:20:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/includes/header.php' (include_path='.:/p:/includes') in /home/jcorpe/resources/config.php on line 57
+[21-Oct-2016 11:20:50 UTC] PHP Stack trace:
+[21-Oct-2016 11:20:50 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:20:50 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:4
+[21-Oct-2016 11:21:44 UTC] PHP Warning:  require_once(/includes/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:21:44 UTC] PHP Stack trace:
+[21-Oct-2016 11:21:44 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:21:44 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:21:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/includes/header.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:21:44 UTC] PHP Stack trace:
+[21-Oct-2016 11:21:44 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:21:44 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:22:20 UTC] PHP Warning:  require_once(/includes/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:22:20 UTC] PHP Stack trace:
+[21-Oct-2016 11:22:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:22:20 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:22:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/includes/header.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:22:20 UTC] PHP Stack trace:
+[21-Oct-2016 11:22:20 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:22:20 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:22:21 UTC] PHP Warning:  require_once(/includes/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:22:21 UTC] PHP Stack trace:
+[21-Oct-2016 11:22:21 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:22:21 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:22:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/includes/header.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:22:21 UTC] PHP Stack trace:
+[21-Oct-2016 11:22:21 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:22:21 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:22:31 UTC] PHP Warning:  require_once(/includes/p/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:22:31 UTC] PHP Stack trace:
+[21-Oct-2016 11:22:31 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:22:31 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:22:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/includes/p/header.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:22:31 UTC] PHP Stack trace:
+[21-Oct-2016 11:22:31 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:22:31 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:23:04 UTC] PHP Warning:  require_once(/p/includes/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:23:04 UTC] PHP Stack trace:
+[21-Oct-2016 11:23:04 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:23:04 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:23:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/p/includes/header.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:23:04 UTC] PHP Stack trace:
+[21-Oct-2016 11:23:04 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:23:04 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:23:25 UTC] PHP Warning:  require_once(/includes/header.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:23:25 UTC] PHP Stack trace:
+[21-Oct-2016 11:23:25 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:23:25 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:23:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/includes/header.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 56
+[21-Oct-2016 11:23:25 UTC] PHP Stack trace:
+[21-Oct-2016 11:23:25 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:23:25 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:24:51 UTC] PHP Warning:  require_once(/classes/p/class.DB.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 57
+[21-Oct-2016 11:24:51 UTC] PHP Stack trace:
+[21-Oct-2016 11:24:51 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:24:51 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:24:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/classes/p/class.DB.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 57
+[21-Oct-2016 11:24:51 UTC] PHP Stack trace:
+[21-Oct-2016 11:24:51 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:24:51 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:25:08 UTC] PHP Warning:  require_once(classes/p/class.DB.php): failed to open stream: No such file or directory in /home/jcorpe/resources/config.php on line 57
+[21-Oct-2016 11:25:08 UTC] PHP Stack trace:
+[21-Oct-2016 11:25:08 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:25:08 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 11:25:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'classes/p/class.DB.php' (include_path='.:/p') in /home/jcorpe/resources/config.php on line 57
+[21-Oct-2016 11:25:08 UTC] PHP Stack trace:
+[21-Oct-2016 11:25:08 UTC] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 11:25:08 UTC] PHP   2. require_once() /home/jcorpe/public_html/p/shop.php:3
+[21-Oct-2016 12:25:19 Europe/London] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jcorpe/public_html/p/classes/class.DB.php on line 28
+[21-Oct-2016 12:25:19 Europe/London] PHP Stack trace:
+[21-Oct-2016 12:25:19 Europe/London] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 12:25:19 Europe/London] PHP   2. Database\DB->DB__Query() /home/jcorpe/public_html/p/shop.php:29
+[21-Oct-2016 12:25:19 Europe/London] PHP   3. Database\DB->DB__Connect() /home/jcorpe/public_html/p/classes/class.DB.php:46
+[21-Oct-2016 12:25:19 Europe/London] PHP   4. mysqli->mysqli() /home/jcorpe/public_html/p/classes/class.DB.php:28
+[21-Oct-2016 12:25:19 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jcorpe/public_html/p/shop.php:27) in /home/jcorpe/public_html/p/classes/class.DB.php on line 34
+[21-Oct-2016 12:25:19 Europe/London] PHP Stack trace:
+[21-Oct-2016 12:25:19 Europe/London] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 12:25:19 Europe/London] PHP   2. Database\DB->DB__Query() /home/jcorpe/public_html/p/shop.php:29
+[21-Oct-2016 12:25:19 Europe/London] PHP   3. Database\DB->DB__Connect() /home/jcorpe/public_html/p/classes/class.DB.php:46
+[21-Oct-2016 12:25:19 Europe/London] PHP   4. header() /home/jcorpe/public_html/p/classes/class.DB.php:34
+[21-Oct-2016 12:25:39 Europe/London] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jcorpe/public_html/p/classes/class.DB.php on line 28
+[21-Oct-2016 12:25:39 Europe/London] PHP Stack trace:
+[21-Oct-2016 12:25:39 Europe/London] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 12:25:39 Europe/London] PHP   2. Database\DB->DB__Query() /home/jcorpe/public_html/p/shop.php:29
+[21-Oct-2016 12:25:39 Europe/London] PHP   3. Database\DB->DB__Connect() /home/jcorpe/public_html/p/classes/class.DB.php:46
+[21-Oct-2016 12:25:39 Europe/London] PHP   4. mysqli->mysqli() /home/jcorpe/public_html/p/classes/class.DB.php:28
+[21-Oct-2016 12:25:39 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jcorpe/public_html/p/shop.php:27) in /home/jcorpe/public_html/p/classes/class.DB.php on line 34
+[21-Oct-2016 12:25:39 Europe/London] PHP Stack trace:
+[21-Oct-2016 12:25:39 Europe/London] PHP   1. {main}() /home/jcorpe/public_html/p/shop.php:0
+[21-Oct-2016 12:25:39 Europe/London] PHP   2. Database\DB->DB__Query() /home/jcorpe/public_html/p/shop.php:29
+[21-Oct-2016 12:25:39 Europe/London] PHP   3. Database\DB->DB__Connect() /home/jcorpe/public_html/p/classes/class.DB.php:46
+[21-Oct-2016 12:25:39 Europe/London] PHP   4. header() /home/jcorpe/public_html/p/classes/class.DB.php:34

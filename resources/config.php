@@ -9,31 +9,28 @@
 /*
     # DEFINE PATHS #####################################################
     Creating constants for heavily used paths makes things a lot easier.
-    ex. require_once(LIBRARY_PATH . "Paginator.php")
+    ex. require_once(INC_PATH . "/header.php")
 */
 
 // Get images from PIXABAY
 
-$docRoot = dirname(dirname( __FILE__)) ;
-
-
 defined("ASSET_PATH")
-or define("ASSET_PATH", '/assets');
+or define("ASSET_PATH", 'assets');
 
 defined("CSS_PATH")
-or define("CSS_PATH", '/assets/css');
+or define("CSS_PATH", 'assets/css');
 
 defined("JS_PATH")
-or define("JS_PATH", '/assets/js');
+or define("JS_PATH", 'assets/js');
 
 defined("IMG_PATH")
-or define("IMG_PATH", '/assets/images');
+or define("IMG_PATH", 'assets/images');
 
 defined("INC_PATH")
-or define("INC_PATH", '/includes');
+or define("INC_PATH", 'includes');
 
 defined("CLASS_PATH")
-or define("CLASS_PATH", '/classes');
+or define("CLASS_PATH", 'classes');
 
 $config = array(
     "db" => array(
