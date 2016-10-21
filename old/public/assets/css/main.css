@@ -1,0 +1,201 @@
+.side-menu--top-padding{
+	padding-top: 47px;
+}
+.icon{
+	padding:3px;
+	border: solid 2px #4c5566 ;
+}
+.search{
+	border: solid 2px #93A2B2;
+	margin-left:-6px;
+	background-color: white;
+}
+.search--container{
+	opacity: 0.5;
+	height:25px;
+	width:245px;
+	margin-top:60px;
+	margin-bottom:10px;
+}
+.search--container:hover{
+	opacity: 1;
+}
+.product--container{
+	height:210px;
+}
+.product{
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-ms-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	outline: none;
+	padding: 3px 0px 3px 3px;
+	margin: 5px 1px 3px 10px;
+	border: 1px solid #DDDDDD;
+	width: 24%;
+	height:300px;
+	display:inline-block;
+}
+
+.product:hover{
+	box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	padding: 3px 0px 3px 3px;
+	margin: 5px 1px 3px 10px;
+	border: 1px solid rgba(81, 203, 238, 1);
+}
+.wrapper {
+	background: white;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);
+	-moz-box-shadow:    0px 0px 8px rgba(0,0,0,0.3);
+	box-shadow:         0px 0px 8px rgba(0,0,0,0.3);
+	position: relative;
+	z-index: 9;
+}
+
+.product-img{
+	max-width:90%;
+	max-height:100%;
+	display:block;
+	margin: 0 auto;
+}
+.image-warp {
+	width:100%;
+	height:50%;
+	padding:10px;
+}
+.imghover:hover:after {
+	opacity: 1;
+}
+.imghover:after {
+	content: attr(data-content);
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	height:53.5%;
+	top:0; left:0;
+	background:rgba(0,0,0,0.6);
+	opacity: 0;
+	transition: all 1s;
+	-webkit-transition: all 1s;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	-webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);
+	-moz-box-shadow:    0px 0px 8px rgba(0,0,0,0.3);
+	box-shadow:         0px 0px 8px rgba(0,0,0,0.3);
+}
+
+.ribbon--red {
+	position: absolute;
+	right: -5px; top: -5px;
+	z-index: 1;
+	overflow: hidden;
+	width: 75px; height: 75px;
+	text-align: right;
+}
+.ribbon--red span {
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFF;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 20px;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	width: 100px;
+	display: block;
+	background: #79A70A;
+	background: linear-gradient(#F70505 0%, #8F0808 100%);
+	box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+	position: absolute;
+	top: 19px; right: -21px;
+}
+.ribbon--red span::before {
+	content: "";
+	position: absolute; left: 0px; top: 100%;
+	z-index: -1;
+	border-left: 3px solid #8F0808;
+	border-right: 3px solid transparent;
+	border-bottom: 3px solid transparent;
+	border-top: 3px solid #8F0808;
+}
+.ribbon--red span::after {
+	content: "";
+	position: absolute; right: 0px; top: 100%;
+	z-index: -1;
+	border-left: 3px solid transparent;
+	border-right: 3px solid #8F0808;
+	border-bottom: 3px solid transparent;
+	border-top: 3px solid #8F0808;
+}
+
+.ribbon {
+	position: absolute;
+	left: -5px; top: -5px;
+	z-index: 1;
+	overflow: hidden;
+	width: 75px; height: 75px;
+	text-align: right;
+}
+.ribbon span {
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFF;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 20px;
+	transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	width: 100px;
+	display: block;
+	background: #79A70A;
+	background: linear-gradient(#2989d8 0%, #1e5799 100%);
+	box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+	position: absolute;
+	top: 19px; left: -21px;
+}
+.ribbon span::before {
+	content: "";
+	position: absolute; left: 0px; top: 100%;
+	z-index: -1;
+	border-left: 3px solid #1e5799;
+	border-right: 3px solid transparent;
+	border-bottom: 3px solid transparent;
+	border-top: 3px solid #1e5799;
+}
+.ribbon span::after {
+	content: "";
+	position: absolute; right: 0px; top: 100%;
+	z-index: -1;
+	border-left: 3px solid transparent;
+	border-right: 3px solid #1e5799;
+	border-bottom: 3px solid transparent;
+	border-top: 3px solid #1e5799;
+}
+.btn--product{
+	display: block;
+	margin: 0 auto;
+}
+.product-btn--wrap button{
+	margin-top:20px;
+}
+.product-btn--wrap {
+	white-space: nowrap;
+}
+.product-quantity button{
+	display:inline-block;
+	margin: 0 auto;
+}
+hr{
+	margin-top:10px;
+	margin-bottom:5px;
+}
+.product--info{
+	text-align: center;
+}
